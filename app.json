@@ -1,0 +1,12 @@
+{
+  "name": "BridgeTest",
+  "displayName": "BridgeTest",
+  "expo": {
+    "name": "BridgeTest",
+    "slug": "BridgeTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
